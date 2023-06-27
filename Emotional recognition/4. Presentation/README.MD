@@ -2,13 +2,17 @@ https://docs.google.com/presentation/d/1L_GPkhAO8eWVsVn8pf9Taed20UbL6YygjCIk2S99
 
 
 
+<div class="actions button-container">
+    <a href="#" class="button primary">Compose new</a>
 
+    <div class="button-group">
+        <a href="#" class="button primary">Archive</a>
+        <a href="#" class="button">Report spam</a>
+        <a href="#" class="button danger">Delete</a>
+    </div>
 
-[![Button Example]][https://docs.google.com/presentation/d/1L_GPkhAO8eWVsVn8pf9Taed20UbL6YygjCIk2S992EM/edit?usp=sharing]
-
-
-
-[Button Click]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
-
-
-[![Button Hover]][Link][Button Hover]: https://img.shields.io/badge/Hover_Over_Me!-37a779?style=for-the-badge
+    <div class="button-group minor-group">
+        <a href="#" class="button">Move to</a>
+        <a href="#" class="button">Labels</a>
+    </div>
+</div>
