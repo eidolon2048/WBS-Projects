@@ -2,3 +2,6 @@ https://docs.google.com/presentation/d/1L_GPkhAO8eWVsVn8pf9Taed20UbL6YygjCIk2S99
 
 
 ![unmaintained](http://img.shields.io/badge/status-unmaintained-red.png)
+
+
+[watch this repo](https://github.com/user/repository/subscription)
